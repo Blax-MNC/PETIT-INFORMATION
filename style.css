@@ -1,0 +1,73 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing:border-box;}
+    font face{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        src: url(https://image.lexica.art/full_webp/0065f022-bb77-4b91-885b-6195c64da7f9);
+    }
+    h1{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align:center ;
+        text-shadow:8px 10px 10px black;
+       font-size:2rem;
+    }
+body{
+    overflow-x: hidden;
+    width: 100vw;
+    background: url(https://image.lexica.art/full_webp/0065f022-bb77-4b91-885b-6195c64da7f9)center/cover;
+    min-height:100vh;
+}
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items:center ;
+    padding: 35px;
+    background: rgb(74, 48, 190);
+    border-radius: 20px 20px 20px 20px;
+    margin: 10%;
+}
+nav a{
+    color:white;
+    margin-right: 10px;
+}
+.logo img{
+    max-width:50px;
+    height: 40px;
+    border:NONE ;
+}
+section{
+	margin-bottom:3rem;
+
+h1,h2,h3{
+	color:#003366;
+	margin-bottom:1rem;
+    text-align: center;
+}
+}
+::-webkit-textfield-decoration-container{
+    border: 2px solid white;
+    backdrop-filter:blur(10px);
+}
+form{
+	display:grid;
+	gap:1rem;
+    margin: 0 auto;
+    h1{
+        color: #fdfbfb;
+        background: #003366;
+    }
+}
+FOOTER{
+    align-items:center;
+    padding: 2rem;
+    h3{
+        background:rgb(250, 250, 249);width:25%;
+        margin: 0 auto;
+        border: #352ac7;
+        border-radius: 20px 20px 20px 20px;
+        box-shadow: #352ac7;
+    }
+    
+}
+ 
+ 
